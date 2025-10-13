@@ -6,16 +6,16 @@
     "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
     "InternalName": "LaciSynchroni",
     "AssemblyVersion": "1.11.30",
-    "TestingAssemblyVersion": "1.12.0.3",
+    "TestingAssemblyVersion": "1.12.0.4",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/LaciSynchroni/client",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "LastUpdate": 1760369531,
+    "LastUpdate": 1760369824,
     "DownloadLinkInstall": "https://github.com/LaciSynchroni/client/releases/download/1.11.30/LaciSynchroni_v1.11.30.zip",
     "DownloadLinkUpdate": "https://github.com/LaciSynchroni/client/releases/download/1.11.30/LaciSynchroni_v1.11.30.zip",
-    "DownloadLinkTesting": "https://github.com/LaciSynchroni/client/releases/download/1.12.0.3/LaciSynchroni_v1.12.0.3.zip",
+    "DownloadLinkTesting": "https://github.com/LaciSynchroni/client/releases/download/1.12.0.4/LaciSynchroni_v1.12.0.4.zip",
     "IconUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/images/icon.png"
   }
 ]
