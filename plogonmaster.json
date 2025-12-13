@@ -12,10 +12,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
-    "LastUpdate": 1765587385,
+    "LastUpdate": 1765587555,
     "DownloadLinkInstall": "https://github.com/LaciSynchroni/client/releases/download/2.0.1/LaciSynchroni_v2.0.1.zip",
     "DownloadLinkUpdate": "https://github.com/LaciSynchroni/client/releases/download/2.0.1/LaciSynchroni_v2.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/LaciSynchroni/client/releases/download/untagged-8b7d1e52990c3aceb5b6/LaciSynchroni_v2.0.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/LaciSynchroni/client/releases/download/untagged-42323f9715fe729fcbe0/LaciSynchroni_v2.0.1.1.zip",
     "IconUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/images/icon.png"
   }
 ]
