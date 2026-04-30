@@ -5,7 +5,7 @@
     "Punchline": "Let others see you as you see yourself.",
     "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
     "InternalName": "LaciSynchroni",
-    "AssemblyVersion": "2.0.9",
+    "AssemblyVersion": "2.0.9.0",
     "TestingAssemblyVersion": "2.0.8.1",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/LaciSynchroni/client",
